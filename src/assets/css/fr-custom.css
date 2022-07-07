@@ -1,0 +1,24 @@
+.tft-news-editor .fr-wrapper { 
+  background: transparent!important;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.tft-news-editor .fr-element { 
+  color: white!important;
+}
+
+.tft-news-editor a { 
+  color: paleturquoise!important;
+}
+
+.tft-news-editor .fr-view p { 
+  font-size: 18px!important;
+}
+
+.tft-news-editor .fr-second-toolbar {
+  display: none;
+}
+/* .tft-news-editor .fr-view * { 
+  background-color: transparent!important;
+} */

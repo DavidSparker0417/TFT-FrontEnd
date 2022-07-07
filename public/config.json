@@ -1,0 +1,5 @@
+{
+  "SERVER" : "https://tft-backend.com:2083/",
+  "SOCIAL_LOGIN" : true,
+  "GOOGLE_CLIENT_ID" : "197925562350-lts20l7r2nkkq2bue8v6f943adtfjdr1.apps.googleusercontent.com"
+}

@@ -1,0 +1,52 @@
+/**
+ **************************************************************
+ * The Fans Together WebKit - v1.0.0
+ **************************************************************
+ * 
+ * Product Page: 
+ * Copyright 2022 @TFTTeam (https://www.tft-dev-team.com)
+ * 
+ * Coded by Telecrypto@OKI (https://t.me/Telecrypto20)
+ * 
+ **************************************************************
+ */
+
+@keyframes continuous-loop1 {
+  0% {
+    transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+  }
+}
+
+@-webkit-keyframes continuous-loop1 {
+  0% {
+    -webkit-transform: translateX(100%);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+  }
+}
+
+@keyframes continuous-loop2 {
+  0% {
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-200%);
+    -webkit-transform: translateX(-200%);
+  }
+}
+
+@-webkit-keyframes continuous-loop2 {
+  0% {
+    -webkit-transform: translateX(0%);
+  }
+  100% {
+    -webkit-transform: translateX(-200%);
+  }
+}

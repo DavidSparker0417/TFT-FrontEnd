@@ -1,0 +1,28 @@
+/**
+ **************************************************************
+ * The Fans Together WebKit - v1.0.0
+ **************************************************************
+ * 
+ * Product Page: 
+ * Copyright 2022 @TFTTeam (https://www.tft-dev-team.com)
+ * 
+ * Coded by Telecrypto@OKI (https://t.me/Telecrypto20)
+ * 
+ **************************************************************
+ */
+/* basic fonts */
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('../fonts/Helvetica.ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}

@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-05-29 22:20+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: es\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/pages/components/PreICO/index.js:134
+msgid "$TFT - Whitelist open now! Register here:"
+msgstr "$TFT - ¡Lista blanca abierta ahora! Registrarse aquí:"
+
+#: src/pages/AboutPage/sections/AboutUs.js:88
+#: src/pages/components/DefNavBar/index.js:38
+#: src/pages/components/DefNavBar/index.js:65
+msgid "About"
+msgstr "Acerca de"
+
+#: src/pages/Authentication/Signup.js:265
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: src/pages/NewsPage/sections/ArticleNavigate/index.js:36
+msgid "Back To News"
+msgstr "Volver a las noticias"
+
+#: src/pages/NewsPage/components/index.js:115
+msgid "Back to top"
+msgstr "Volver arriba"
+
+#: src/pages/PrivacyPolicyPage/index.js:320
+msgid "Business Transactions"
+msgstr "Transacciones comerciales"
+
+#: src/pages/AboutPage/sections/AboutUs.js:144
+msgid "COMMUNITY"
+msgstr "Comunidad"
+
+#: src/pages/NewsPage/NewsEditor/index.js:199
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/pages/PrivacyPolicyPage/index.js:397
+msgid "Changes to this Privacy Policy"
+msgstr "Cambios a esta Política de privacidad"
+
+#: src/pages/HelpPage/index.js:173
+msgid "Check out our frequently asked questions"
+msgstr "Consulta nuestras preguntas frecuentes"
+
+#: src/pages/PrivacyPolicyPage/index.js:370
+msgid "Children's Privacy"
+msgstr "Privacidad infantil"
+
+#: src/pages/WhitePaper/index.js:137
+msgid "Click Here"
+msgstr "Haga clic aquí"
+
+#: src/pages/NewsPage/sections/CommentsList/index.js:64
+msgid "Comment here"
+msgstr "Comenta aquí"
+
+#: src/pages/Authentication/Signup.js:161
+msgid "Confirm Password:"
+msgstr "Confirma clave"
+
+#: src/pages/Authentication/Setting.js:121
+msgid "Confirm password"
+msgstr "Confirma clave"
+
+#: src/pages/Authentication/Setting.js:145
+msgid "Confirm your new password"
+msgstr "Confirma tu nueva contraseña"
+
+#: src/pages/Authentication/Signup.js:113
+#: src/pages/Authentication/Signup.js:162
+msgid "Confirm your password"
+msgstr "Confirma tu contraseña"
+
+#: src/pages/components/DefNavBar/index.js:50
+#: src/pages/components/DefNavBar/index.js:77
+#: src/pages/ContacUs/index.js:116
+#: src/pages/HelpPage/index.js:149
+msgid "Contact"
+msgstr "Contacto"
+
+#: src/components/TFTFooter/index.js:77
+#: src/pages/PrivacyPolicyPage/index.js:410
+msgid "Contact Us"
+msgstr "Contáctenos"
+
+#: src/pages/DonatePage/sections/DonateTab.js:78
+msgid "Copied!"
+msgstr "Copiado"
+
+#: src/pages/DonatePage/sections/DonateTab.js:70
+msgid "Copy Code"
+msgstr "Copiar código"
+
+#: src/pages/AboutPage/sections/Team.js:47
+#: src/pages/AboutPage/sections/Team.js:52
+#: src/pages/AboutPage/sections/Team.js:57
+#: src/pages/AboutPage/sections/Team.js:62
+#: src/pages/AboutPage/sections/Team.js:67
+msgid "Core Team"
+msgstr "Equipo principal"
+
+#: src/pages/ArticlePage/index.js:58
+msgid "Create Article"
+msgstr "Crear artículo"
+
+#: src/pages/Authentication/Setting.js:109
+msgid "Current password"
+msgstr "Contraseña actual"
+
+#: src/pages/PrivacyPolicyPage/index.js:114
+msgid "Definitions"
+msgstr "Definiciones"
+
+#: src/pages/AboutPage/sections/Team.js:82
+msgid "Director of Partnerships LatAm"
+msgstr "Director de Asociaciones de LatAm"
+
+#: src/pages/AboutPage/sections/Team.js:77
+msgid "Director of Partnerships NA"
+msgstr "Director de Asociaciones NA"
+
+#: src/pages/PrivacyPolicyPage/index.js:316
+msgid "Disclosure of Your Personal Data"
+msgstr "Divulgación de sus datos personales"
+
+#: src/pages/Authentication/Login.js:192
+msgid "Don't have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: src/pages/DonatePage/sections/MainFace.js:42
+msgid "Donate"
+msgstr "Donar"
+
+#: src/pages/LandingPage/sections/Donate/index.js:43
+msgid "Donate Here"
+msgstr "Dona aquí"
+
+#: src/pages/Authentication/Setting.js:223
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+#: src/pages/Authentication/Profile.js:181
+msgid "Edit Profile Setting"
+msgstr "Editar configuración de perfil"
+
+#: src/pages/NewsPage/sections/ArticleHeader/index.js:115
+msgid "Edit This News"
+msgstr "Editar esta noticia"
+
+#: src/pages/Authentication/Setting.js:93
+msgid "Email address"
+msgstr "Dirección de correo electrónico"
+
+#: src/pages/ContacUs/index.js:49
+msgid "Email address is required"
+msgstr "Se requiere una dirección de correo electrónico"
+
+#: src/pages/Authentication/Signup.js:147
+#: src/pages/components/PreICO/index.js:86
+#: src/pages/ContacUs/index.js:93
+#: src/pages/PRPage/index.js:121
+msgid "Email:"
+msgstr "Correo electrónico"
+
+#: src/pages/NewsPage/NewsEditor/index.js:164
+msgid "Enter Title Here"
+msgstr "Introduzca el título aquí..."
+
+#: src/pages/NewsPage/NewsEditor/index.js:179
+msgid "Enter description here"
+msgstr "Introduzca la descripción aquí"
+
+#: src/pages/Authentication/Setting.js:137
+msgid "Enter your current password"
+msgstr "Introduce la contraseña actual"
+
+#: src/components/TFTFooter/index.js:41
+#: src/pages/Authentication/Setting.js:131
+#: src/pages/Authentication/Signup.js:105
+#: src/pages/Authentication/Signup.js:148
+#: src/pages/components/PreICO/index.js:65
+#: src/pages/components/PreICO/index.js:87
+#: src/pages/ContacUs/index.js:94
+msgid "Enter your email address"
+msgstr "Ingresa tu dirección de correo electrónico"
+
+#: src/pages/ContacUs/index.js:87
+msgid "Enter your name"
+msgstr "Introduzca su nombre"
+
+#: src/pages/Authentication/Setting.js:140
+msgid "Enter your new password"
+msgstr "Introduzca su nueva contraseña"
+
+#: src/pages/Authentication/Login.js:94
+#: src/pages/Authentication/Login.js:161
+#: src/pages/Authentication/Signup.js:109
+#: src/pages/Authentication/Signup.js:155
+msgid "Enter your password"
+msgstr "Ingresa tu contraseña"
+
+#: src/pages/ContacUs/index.js:101
+msgid "Enter your subject"
+msgstr "Introduzca su asunto"
+
+#: src/pages/Authentication/Setting.js:128
+#: src/pages/Authentication/Signup.js:101
+#: src/pages/Authentication/Signup.js:141
+msgid "Enter your username"
+msgstr "Escribe tu nombre de usuario"
+
+#: src/pages/Authentication/Login.js:90
+msgid "Enter your username or email address"
+msgstr "Introduce tu nombre de usuario o dirección de correo"
+
+#: src/pages/Authentication/Setting.js:134
+msgid "Enter your wallet address"
+msgstr "Introduce la dirección de tu monedero"
+
+#: src/components/TFTFooter/index.js:85
+#: src/pages/FAQPage/index.js:183
+#: src/pages/HelpPage/index.js:170
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+#: src/pages/NewsPage/index.js:108
+msgid "Failed to get comments from backend"
+msgstr "No se pudieron obtener comentarios del backend"
+
+#: src/pages/ContacUs/index.js:77
+msgid "Failed to send message to team. {0}"
+msgstr "No se pudo enviar el mensaje al equipo. {0}"
+
+#: src/pages/Authentication/Profile.js:306
+msgid "Favorite articles"
+msgstr "Artículos favoritos"
+
+#: src/pages/LandingPage/sections/Header/index.js:162
+msgid "Find out more"
+msgstr "Más información"
+
+#: src/pages/PRPage/index.js:115
+msgid "For any media enquiries please contact:"
+msgstr "Para cualquier consulta de los medios, póngase en contacto con:"
+
+#: src/pages/AboutPage/sections/Team.js:102
+#: src/pages/AboutPage/sections/Team.js:107
+msgid "Fullstack Developer"
+msgstr "Desarrollador Fullstack"
+
+#: src/pages/AboutPage/sections/Team.js:97
+msgid "Greek Football Specialist and Youth Development"
+msgstr "Especialista en fútbol griego y desarrollo juvenil"
+
+#: src/pages/AboutPage/sections/Team.js:92
+msgid "Head of TFT Nigeria"
+msgstr "Director de TFT Nigeria"
+
+#: src/components/TFTFooter/index.js:81
+#: src/pages/HelpPage/index.js:131
+msgid "Help"
+msgstr "Ayuda"
+
+#: src/pages/PrivacyPolicyPage/index.js:104
+msgid "Interpretation"
+msgstr "Interpretación"
+
+#: src/pages/PrivacyPolicyPage/index.js:100
+msgid "Interpretation and Definitions"
+msgstr "Interpretación y definiciones"
+
+#: src/pages/PrivacyPolicyPage/index.js:331
+msgid "Law enforcement"
+msgstr "Autoridades"
+
+#: src/pages/PrivacyPolicyPage/index.js:385
+msgid "Links to Other Websites"
+msgstr "Enlaces a otros sitios web"
+
+#: src/pages/PRPage/index.js:132
+msgid "Location:"
+msgstr "Localización:"
+
+#: src/pages/Authentication/Login.js:168
+#: src/pages/Authentication/Login.js:181
+#: src/pages/components/DefNavBar/index.js:58
+msgid "Log In"
+msgstr "Entrar"
+
+#: src/pages/Authentication/Signup.js:277
+msgid "Log in here"
+msgstr "Inicie sesión aquí."
+
+#: src/pages/Authentication/Login.js:173
+msgid "Log in with wallet"
+msgstr "Iniciar sesión con monedero"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:131
+msgid "Log out"
+msgstr "Salir"
+
+#: src/components/TFTFooter/index.js:104
+#: src/pages/PRPage/index.js:112
+msgid "Media"
+msgstr "Medios"
+
+#: src/pages/ContacUs/index.js:129
+msgid "Message:"
+msgstr "Mensaje"
+
+#: src/pages/LandingPage/sections/Blogs/index.js:58
+msgid "More"
+msgstr "Más"
+
+#: src/pages/Authentication/Signup.js:140
+#: src/pages/ContacUs/index.js:86
+msgid "Name:"
+msgstr "Nombre"
+
+#: src/pages/Authentication/Setting.js:115
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#: src/pages/Authentication/Setting.js:143
+msgid "New password should be entered"
+msgstr "Debe introducirse una nueva contraseña"
+
+#: src/components/TFTFooter/index.js:89
+#: src/pages/ArticlePage/sections/MainFace.js:45
+#: src/pages/components/DefNavBar/index.js:42
+#: src/pages/components/DefNavBar/index.js:69
+#: src/pages/LandingPage/sections/Blogs/index.js:38
+msgid "News"
+msgstr "Noticias"
+
+#: src/pages/NewsPage/NewsEditor/index.js:123
+msgid "News title should not be empty!"
+msgstr "¡El título de la noticia no debe estar vacío!"
+
+#: src/pages/PRPage/index.js:119
+msgid "Office:"
+msgstr "Oficina:"
+
+#: src/pages/PrivacyPolicyPage/index.js:342
+msgid "Other legal requirements"
+msgstr "Otros requisitos legales"
+
+#: src/pages/LandingPage/sections/ShopNFT/index.js:38
+msgid "Our NFTs"
+msgstr "Nuestros NFT"
+
+#: src/pages/Authentication/Login.js:96
+#: src/pages/Authentication/Signup.js:111
+msgid "Password is required"
+msgstr "Se requiere contraseña"
+
+#: src/pages/Authentication/Login.js:95
+#: src/pages/Authentication/Setting.js:138
+#: src/pages/Authentication/Setting.js:141
+#: src/pages/Authentication/Signup.js:110
+msgid "Password should be of minimum 8 characters length"
+msgstr "La contraseña debe tener una longitud mínima de 8 caracteres"
+
+#: src/pages/Authentication/Login.js:160
+#: src/pages/Authentication/Signup.js:154
+msgid "Password:"
+msgstr "Contraseña"
+
+#: src/pages/Authentication/Setting.js:146
+#: src/pages/Authentication/Signup.js:114
+msgid "Passwords must match"
+msgstr "Las contraseñas deben ser iguales"
+
+#: src/pages/PrivacyPolicyPage/index.js:155
+msgid "Personal Data"
+msgstr "Datos personales"
+
+#: src/pages/Authentication/Signup.js:115
+msgid "Please retype your password."
+msgstr "Por favor, escribe tu nueva contraseña"
+
+#: src/pages/NewsPage/index.js:123
+msgid "Please, login to add favorite!"
+msgstr "Por favor, inicia sesión para añadir favorito!"
+
+#: src/pages/NewsPage/sections/CommentsList/index.js:86
+msgid "Post Your Comment"
+msgstr "Publica tu comentario"
+
+#: src/pages/components/DefNavBar/index.js:46
+#: src/pages/components/DefNavBar/index.js:73
+msgid "Pre-ICO"
+msgstr "Pre-ICO"
+
+#: src/components/TFTFooter/index.js:96
+#: src/pages/PrivacyPolicyPage/index.js:73
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:114
+#: src/pages/Authentication/Profile.js:147
+msgid "Profile"
+msgstr "Perfil"
+
+#: src/components/TFTReadMore/index.js:45
+msgid "Read More"
+msgstr "Leer más"
+
+#: src/pages/NewsPage/sections/ArticleNavigate/index.js:46
+msgid "Read next"
+msgstr "Leer siguiente"
+
+#: src/pages/components/PreICO/index.js:101
+msgid "Register"
+msgstr "Registro"
+
+#: src/pages/components/PreICO/index.js:133
+msgid "Register Pre-ICO"
+msgstr "Registrarse Pre-ICO"
+
+#: src/pages/components/PreICO/index.js:95
+msgid "Register with wallet"
+msgstr "Regístrese con billetera"
+
+#: src/pages/PrivacyPolicyPage/index.js:286
+msgid "Retention of Your Personal Data"
+msgstr "Retención de sus datos personales"
+
+#: src/pages/PrivacyPolicyPage/index.js:359
+msgid "Security of Your Personal Data"
+msgstr "Seguridad de sus datos personales"
+
+#: src/pages/ContacUs/index.js:108
+msgid "Send"
+msgstr "Enviar"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:122
+msgid "Setting"
+msgstr "Ajuste"
+
+#: src/components/TFTReadMore/index.js:45
+msgid "Show less"
+msgstr "Mostrar menos"
+
+#: src/pages/Authentication/Signup.js:254
+msgid "Sign Up"
+msgstr "Registrarse"
+
+#: src/pages/Authentication/Login.js:204
+#: src/pages/Authentication/Signup.js:170
+msgid "Sign up"
+msgstr "Registrarse"
+
+#: src/pages/Authentication/Signup.js:175
+msgid "Sign up with wallet"
+msgstr "Regístrate con wallet"
+
+#: src/pages/AboutPage/sections/Team.js:87
+msgid "Spanish Football Expert, Football Analyst and Coach"
+msgstr "Experto en fútbol español, analista y entrenador de fútbol"
+
+#: src/pages/ContacUs/index.js:100
+msgid "Subject:"
+msgstr "Asunto"
+
+#: src/pages/NewsPage/NewsEditor/index.js:196
+msgid "Submit"
+msgstr "Enviar"
+
+#: src/components/TFTFooter/index.js:69
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#: src/pages/ContacUs/index.js:74
+msgid "Success to send message to team."
+msgstr "Se ha logrado enviar el mensaje al equipo."
+
+#: src/pages/AboutPage/sections/Team.js:72
+msgid "TFT Lead Designer and Creative"
+msgstr "Diseñador principal y creativo de TFT"
+
+#: src/pages/AboutPage/sections/Team.js:150
+msgid "The Team"
+msgstr "Equipo"
+
+#: src/pages/Authentication/Signup.js:103
+#: src/pages/Authentication/Signup.js:107
+#: src/pages/components/PreICO/index.js:67
+msgid "This field is required!"
+msgstr "Este campo es obligatorio."
+
+#: src/pages/Authentication/Setting.js:132
+#: src/pages/Authentication/Signup.js:106
+#: src/pages/components/PreICO/index.js:66
+#: src/pages/ContacUs/index.js:48
+msgid "This is not a valid email."
+msgstr "Correo electrónico no válido"
+
+#: src/pages/PrivacyPolicyPage/index.js:190
+msgid "Tracking Technologies and Cookies"
+msgstr "Tecnologías de seguimiento y cookies"
+
+#: src/pages/PrivacyPolicyPage/index.js:300
+msgid "Transfer of Your Personal Data"
+msgstr "Transferencia de sus datos personales"
+
+#: src/pages/PrivacyPolicyPage/index.js:151
+msgid "Types of Data Collected"
+msgstr "Tipos de datos recopilados"
+
+#: src/pages/Authentication/Setting.js:311
+msgid "Update Setting"
+msgstr "Configuración de actualización"
+
+#: src/pages/PrivacyPolicyPage/index.js:173
+msgid "Usage Data"
+msgstr "Datos de uso"
+
+#: src/pages/PrivacyPolicyPage/index.js:244
+msgid "Use of Your Personal Data"
+msgstr "Uso de sus datos personales"
+
+#: src/pages/Authentication/Setting.js:86
+msgid "Username"
+msgstr "Usuario"
+
+#: src/pages/Authentication/Login.js:153
+msgid "Username / email:"
+msgstr "Nombre de usuario (correo electrónico)"
+
+#: src/pages/Authentication/Login.js:154
+msgid "Username or Email Address"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: src/pages/Authentication/Login.js:92
+msgid "Username or Email address is required"
+msgstr "Se requiere nombre de usuario o dirección de correo"
+
+#: src/pages/Authentication/Login.js:91
+#: src/pages/Authentication/Setting.js:129
+#: src/pages/Authentication/Signup.js:102
+msgid "Username should be of minimum 3 characters length"
+msgstr "El nombre de usuario debe tener una longitud mínima de 3 caracteres"
+
+#: src/pages/Authentication/Setting.js:100
+msgid "Wallet address"
+msgstr "Dirección del monedero"
+
+#: src/pages/LandingPage/sections/Donate/index.js:33
+msgid "Want to support TFT?"
+msgstr "¿Quieres dar soporte a TFT?"
+
+#: src/pages/FAQPage/index.js:94
+msgid "What is a DAO?"
+msgstr "¿Qué es una DAO?"
+
+#: src/pages/AboutPage/sections/WhitePaper.js:65
+#: src/pages/AboutPage/sections/WhitePaper.js:94
+#: src/pages/components/DefNavBar/index.js:54
+#: src/pages/components/DefNavBar/index.js:81
+#: src/pages/WhitePaper/index.js:120
+msgid "Whitepaper"
+msgstr "Notas del producto"
+
+#: src/pages/FAQPage/index.js:86
+msgid "Who are The Fans Together? What are you doing?"
+msgstr "¿Quiénes son los fans juntos? ¿Qué estás haciendo?"
+
+#: src/pages/FAQPage/index.js:112
+msgid "Why Crypto?"
+msgstr "Por qué Crypto?"
+
+#: src/pages/FAQPage/index.js:124
+msgid "Why IOTA?"
+msgstr "¿Por qué IOTA?"
+
+#: src/pages/FAQPage/index.js:102
+msgid "Why now?"
+msgstr "¿Por qué ahora?"
+
+#: src/pages/FAQPage/index.js:134
+msgid "Will I get a physical version of my NFT?"
+msgstr "¿Recibiré una versión física de mi NFT?"
+
+#: src/pages/FAQPage/index.js:141
+msgid "Will you buy my club?"
+msgstr "¿Vas a comprar mi palo?"
+
+#: src/pages/AboutPage/sections/AboutUs.js:49
+msgid "about.text"
+msgstr ""
+"The Fans Together es una DAO (Organización Autónoma Descentralizada) dedicada a reunir a los fanáticos del deporte de todo el mundo para darles poder y voz en los clubes deportivos profesionales.\n"
+"Para lograr este objetivo, The Fans Together estamos utilizando Tangle, una tecnología de registro distribuido (DLT) creada por la Fundación IOTA para crear una forma rápida, gratuita y sin fricciones para que los fanáticos interactúen con sus clubes deportivos. A través de nuestra estructura de gobierno, los aficionados tendrán voz y voto en las operaciones de su club.\n"
+"Cualquiera que posea al menos uno de los tokens $TFT de The Fans Together podrá debatir, contribuir y, en última instancia, decidir, a través de votaciones y encuestas, la dirección de sus clubes deportivos. Los votos dentro de la DAO son propuestos por el equipo de TFT y luego los titulares de los tokens podrán participar y decidir el resultado.\n"
+"Hemos optado por utilizar Tangle de IOTA debido a sus muchas ventajas, su rapidez, facilidad y eficiencia energética. Estas características son las que hacen posible The Fans Together."
+
+#: src/pages/AboutPage/sections/WhitePaper.js:72
+msgid "about.white.desc0"
+msgstr "¿Quieres ver cuáles son nuestros planes para TFT? <0/>Eche un vistazo a nuestro documento técnico aquí."
+
+#: src/pages/ArticlePage/sections/MainFace.js:61
+msgid "article.desc"
+msgstr "Aquí puedes mantenerte al día de todo lo que sucede con The Fans Together"
+
+#: src/pages/DonatePage/sections/MainFace.js:55
+msgid "donate.main.desc"
+msgstr "The Fans Together está trabajando arduamente para acercar a los fanáticos del deporte y los clubes profesionales. La información de nuestra donación está a continuación."
+
+#: src/pages/FAQPage/index.js:87
+msgid "faq.a1"
+msgstr "The Fans Together es una DAO (ver más abajo) que utiliza la tecnología Web3 y el Tangle de IOTA para unir a los fanáticos del deporte y darles el poder de tener una voz real en los clubes deportivos, en lugar de quedar fuera de la toma de decisiones."
+
+#: src/pages/FAQPage/index.js:95
+msgid "faq.a2"
+msgstr "Una comunidad autónoma descentralizada es un grupo de personas que, a través de la tecnología Web3, se unen para tomar decisiones colectivamente."
+
+#: src/pages/FAQPage/index.js:103
+msgid "faq.a3"
+msgstr "Descubrimos que ahora era el momento a través de una confluencia de avances tecnológicos y deportivos. Nos animó la movilización de los aficionados contra las injustas propuestas de la Superliga Europea. El ritmo de progreso de la Fundación IOTA, para madurar su tecnología, ha continuado y creemos que IOTA está lo suficientemente desarrollada como para proporcionar lo que necesitamos para este proyecto."
+
+#: src/pages/FAQPage/index.js:113
+msgid "faq.a4"
+msgstr "Simplemente, permite una operabilidad descentralizada, es transparente e inmutable y, en el contexto de nuestro modelo de propiedad y votación, permite a los titulares de tokens participar en la gestión de la dirección y la estrategia de adquisición de DAO. La gestión posterior de los clubes deportivos a través de Tangle proporciona al proyecto una credibilidad y confianza significativas, al tiempo que permite una amplia gama de participación y selección de áreas de interés para el participante. Tangle permite un escalado rápido, velocidad de acceso y visibilidad en todos los aspectos de las operaciones."
+
+#: src/pages/FAQPage/index.js:125
+msgid "faq.a5"
+msgstr "El hecho de que con IOTA las transacciones sean sin comisiones y sin fricciones es una ventaja significativa sobre la operación de nuestra DAO en cualquier otra criptomoneda. Otro atractivo es que el Tangle de IOTA funciona de una manera mucho menos intensiva en energía, lo que significa que podemos tener la funcionalidad de un libro de contabilidad digital, sin los costos para el medio ambiente y la sostenibilidad que imponen otras criptomonedas como Ethereum."
+
+#: src/pages/FAQPage/index.js:135
+msgid "faq.a6"
+msgstr "Actualmente, solo el #DAOPIONEER está disponible como prenda física."
+
+#: src/pages/FAQPage/index.js:142
+msgid "faq.a7"
+msgstr "No podemos prometerlo, ya que cada decisión de compra será propuesta, debatida y aprobada por los miembros de la DAO, pero podemos animarlos a que se involucren y hagan oír su voz."
+
+#: src/pages/HelpPage/index.js:152
+msgid "help.contact.desc"
+msgstr "¿No ha encontrado lo que necesita en nuestras preguntas frecuentes?"
+
+#: src/pages/LandingPage/sections/Donate/index.js:36
+msgid "home.donate.p0"
+msgstr "The Fans Together está trabajando arduamente para acercar a los fanáticos del deporte y los clubes profesionales. La información de nuestra donación está a continuación."
+
+#: src/pages/PrivacyPolicyPage/index.js:147
+msgid "priv.policy.h1"
+msgstr "Recopilación y uso de sus datos personales"
+
+#: src/pages/PrivacyPolicyPage/index.js:93
+msgid "priv.policy.t0"
+msgstr "Esta Política de privacidad describe nuestras políticas y procedimientos sobre la recopilación, el uso y la divulgación de su información cuando utiliza el Servicio y le informa sobre sus derechos de privacidad y cómo la ley lo protege.<0/> Al utilizar el Servicio, usted acepta la recopilación y el uso de la información de acuerdo con esta Política de privacidad."
+
+#: src/pages/PrivacyPolicyPage/index.js:108
+msgid "priv.policy.t1"
+msgstr "Las palabras cuya letra inicial está en mayúscula tienen significados definidos en las siguientes condiciones. Las siguientes definiciones tendrán el mismo significado independientemente de si aparecen en singular o en plural."
+
+#: src/pages/PrivacyPolicyPage/index.js:335
+msgid "priv.policy.t10"
+msgstr "En determinadas circunstancias, es posible que la Compañía deba divulgar sus Datos personales si así lo exige la ley o en respuesta a solicitudes válidas de autoridades públicas (por ejemplo, un tribunal o una agencia gubernamental)."
+
+#: src/pages/PrivacyPolicyPage/index.js:346
+msgid "priv.policy.t11"
+msgstr "La Compañía puede divulgar sus Datos personales de buena fe cuando considere que dicha acción es necesaria para: <0><1>Cumplir con una obligación legal</1><2>Proteger y defender los derechos o la propiedad de la Compañía</2><3>Prevenir o investigar posibles irregularidades en relación con el Servicio</3><4>Proteger el personal seguridad de los Usuarios del Servicio o del público</4><5>Proteger contra la responsabilidad legal</5></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:363
+msgid "priv.policy.t12"
+msgstr "La seguridad de sus datos personales es importante para nosotros, pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro. Si bien nos esforzamos por utilizar medios comercialmente aceptables para proteger sus datos personales, no podemos garantizar su seguridad absoluta."
+
+#: src/pages/PrivacyPolicyPage/index.js:374
+msgid "priv.policy.t13"
+msgstr "Nuestro Servicio no está dirigido a personas menores de 13 años. No recopilamos a sabiendas información de identificación personal de ninguna persona menor de 13 años. Si usted es padre, madre o tutor y sabe que su hijo nos ha proporcionado datos personales, póngase en contacto con nosotros. Si nos enteramos de que hemos recopilado datos personales de cualquier persona menor de 13 años sin la verificación del consentimiento de los padres, tomaremos medidas para eliminar esa información de nuestros servidores.<0/> Si necesitamos basarnos en el consentimiento como base legal para procesar su información y su país requiere el consentimiento de un padre, es posible que solicitemos el consentimiento de sus padres antes de recopilar y usar esa información."
+
+#: src/pages/PrivacyPolicyPage/index.js:389
+msgid "priv.policy.t14"
+msgstr "Nuestro Servicio puede contener enlaces a otros sitios web que no gestionamos Nosotros. Si hace clic en un enlace de un tercero, se le dirigirá al sitio de ese tercero. Le recomendamos encarecidamente que revise la Política de privacidad de cada sitio que visite. No<0/> tenemos control ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de los sitios o servicios de terceros."
+
+#: src/pages/PrivacyPolicyPage/index.js:401
+msgid "priv.policy.t15"
+msgstr "Es posible que actualicemos nuestra Política de privacidad de vez en cuando. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página.<0/> Le informaremos por correo electrónico y/o mediante un aviso destacado en Nuestro Servicio, antes de que el cambio entre en vigor y actualizaremos la fecha de «Última actualización» en la parte superior de esta Política de privacidad.<1/> Le recomendamos que revise esta Política de privacidad. Política de forma periódica para cualquier cambio. Los cambios a esta Política de privacidad entran en vigor cuando se publican en esta página."
+
+#: src/pages/PrivacyPolicyPage/index.js:414
+msgid "priv.policy.t16"
+msgstr "Si tiene alguna pregunta sobre esta Política de privacidad, puede ponerse en contacto con nosotros: <0><1>Por correo electrónico: contact@thefanstogether.io</1></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:118
+msgid "priv.policy.t2"
+msgstr "A los efectos de esta Política de privacidad:<0/><1><2><3>Cuenta</3> significa una cuenta única creada para que Usted acceda a nuestro Servicio o a partes de nuestro Servicio.</2><4><5>Empresa</5> (denominada «la Compañía», «Nosotros», «Nos» o «Nuestro» en este Acuerdo) se refiere a The Fans Together.</4><6><7>Las cookies</7> son pequeños archivos que un sitio web coloca en Su computadora, dispositivo móvil o cualquier otro dispositivo, que contienen los detalles de Su historial de navegación en ese sitio web entre sus muchos usos.</6><8><9>País</9> se refiere a: Reino Unido</8><10><11>Dispositivo</11> significa cualquier dispositivo que pueda acceder al Servicio, como un ordenador, un teléfono móvil o una tableta digital.</10><12><13>Los datos personales</13> son cualquier información relacionada con una persona identificada o identificable.</12><14><15>El servicio</15> se refiere al sitio web.</14><16><17>Proveedor de servicios</17> significa cualquier persona física o jurídica que procesa los datos en nombre de la Compañía. Se refiere a empresas de terceros o personas empleadas por la Empresa para facilitar el Servicio, proporcionar el Servicio en nombre de la Empresa, realizar servicios relacionados con el Servicio o ayudar a la Empresa a analizar cómo se utiliza el Servicio.</16><18><19>Datos de uso</19> se refiere a los datos recopilados automáticamente, ya sea generados por el uso del Servicio o por la propia infraestructura del Servicio (por ejemplo, la duración de una visita a la página).</18><20><21>El sitio web</21> se refiere a The Fans Together, accesible desde <22>https://thefanstogether.io</22></20><23><24>Usted</24> se refiere a la persona que accede o utiliza el Servicio, o la empresa u otra entidad legal en nombre de la cual dicha persona accede o utiliza el Servicio, según corresponda.</23></1>"
+
+#: src/pages/PrivacyPolicyPage/index.js:159
+msgid "priv.policy.t3"
+msgstr "Mientras usa Nuestro Servicio, podemos pedirle que nos proporcione cierta información de identificación personal que se puede usar para contactarlo o identificarlo. La información de identificación personal puede incluir, pero no se limita a:<0><1>Dirección de correo electrónico</1><2>Nombre y apellido</2><3>Número de teléfono</3><4>Dirección, Estado, provincia, código postal, ciudad</4><5>Datos de uso</5></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:177
+msgid "priv.policy.t4"
+msgstr "Los Datos de uso se recopilan automáticamente al utilizar el Servicio. Los datos de<0/> uso pueden incluir información como la dirección del protocolo de Internet de su dispositivo (por ejemplo, la dirección IP), el tipo de navegador, la versión del navegador, las páginas de nuestro Servicio que visita, la hora y la fecha de su visita, el tiempo dedicado a esas páginas, identificadores de dispositivos y otros datos de diagnóstico<1/> Cuando accede al Servicio mediante o a través de un dispositivo móvil, podemos recopilar cierta información automáticamente, incluidos, entre otros, el tipo de dispositivo móvil que utiliza, el identificador único de su dispositivo móvil, la dirección IP de su dispositivo móvil, su funcionamiento móvil sistema, el tipo de navegador de Internet móvil que utiliza, los identificadores únicos del dispositivo y otros datos de diagnóstico. También podemos recopilar información que Su navegador envía cada vez que visita nuestro Servicio o cuando accede al Servicio mediante o a través de un dispositivo móvil."
+
+#: src/pages/PrivacyPolicyPage/index.js:194
+msgid "priv.policy.t5"
+msgstr "Usamos Cookies y tecnologías de seguimiento similares para rastrear la actividad en Nuestro Servicio y almacenar cierta información. Las tecnologías de seguimiento utilizadas son balizas, etiquetas y scripts para recopilar y rastrear información y para mejorar y analizar Nuestro Servicio. Las tecnologías que utilizamos pueden incluir:<0><1><2>Cookies o cookies del navegador.</2> Una cookie es un pequeño archivo que se coloca en su dispositivo. Puede indicar a su navegador que rechace todas las cookies o que indique cuándo se envía una cookie. Sin embargo, si no acepta las Cookies, es posible que no pueda utilizar algunas partes de nuestro Servicio. A menos que haya ajustado la configuración de su navegador para que rechace las Cookies, nuestro Servicio puede usar Cookies.</1><3><4>Cookies Flash.</4> Ciertas funciones de nuestro Servicio pueden usar objetos almacenados localmente (o Flash Cookies) para recopilar y almacenar información sobre Sus preferencias o Su actividad en nuestro Servicio. Las cookies de Flash no se gestionan con la misma configuración del navegador que las utilizadas para las cookies del navegador. Para obtener más información sobre cómo puede eliminar las cookies de Flash, lea \"¿Dónde puedo cambiar la configuración para deshabilitar o eliminar objetos locales compartidos?\" disponible en <5>https://helpx.adobe.com/flash-player /kb/disable-local-shared-objects-flash.html#main_Where_can_I_</5>change_the_settings_for_disabling__or_deleting_local_shared_objects_</3><6><7>Web Beacons.</7> Ciertas secciones de nuestro Servicio y nuestros correos electrónicos pueden contener pequeños archivos conocidos como web beacons (también conocidos como gifs transparentes, etiquetas de píxeles y gifs de un solo píxel) que permiten a la Compañía, por ejemplo, contar los usuarios que visitaron esas páginas o abrieron un correo electrónico y otras estadísticas relacionadas con el sitio web (por ejemplo, ejemplo, registrar la popularidad de una determinada sección y verificar la integridad del sistema y del servidor).</6></0>Las cookies pueden ser \"persistentes\" o \"de sesión\". Las cookies persistentes permanecen en su computadora personal o dispositivo móvil cuando se desconecta, mientras que las cookies de sesión se eliminan tan pronto como cierra su navegador web. Obtenga más información sobre las cookies: <8>¿Qué son las cookies?</8><9/>Usamos cookies de sesión y persistentes para los fines que se describen a continuación:<10><11><12>Cookies necesarias/esenciales</12><13/>Tipo: Cookies de sesión<14/>Administradas por: Nosotros<15/>Propósito: Estas cookies son esenciales para brindarle los servicios disponibles a través del sitio web y permitirle usar algunas de sus funciones. Ayudan a autenticar a los usuarios y previenen el uso fraudulento de cuentas de usuario. Sin estas Cookies, no se pueden proporcionar los servicios que ha solicitado, y solo utilizamos estas Cookies para proporcionarle esos servicios.</11><16><17>Política de cookies / Cookies de aceptación de avisos</17><18 />Tipo: Cookies persistentes<19/>Administradas por: Nosotros<20/>Propósito: Estas Cookies identifican si los usuarios han aceptado el uso de cookies en el Sitio web.</16><21><22>Cookies de funcionalidad</22><23/>Tipo: Cookies persistentes<24/>Administradas por: Nosotros<25/>Propósito: Estas cookies nos permiten recordar las elecciones que hace cuando usa el sitio web, como recordar sus datos de inicio de sesión o preferencia de idioma. El propósito de estas Cookies es brindarle una experiencia más personal y evitar que tenga que volver a ingresar sus preferencias cada vez que use el sitio web.</21></10>Para obtener más información sobre las cookies que usamos y su opciones con respecto a las cookies, visite nuestra Política de cookies o la sección Cookies de nuestra Política de privacidad."
+
+#: src/pages/PrivacyPolicyPage/index.js:248
+msgid "priv.policy.t6"
+msgstr "La Empresa puede utilizar los Datos personales para los siguientes fines:<0><1><2>Para proporcionar y mantener nuestro Servicio,</2> incluido el control del uso de nuestro Servicio.</1><3><4> Para gestionar Su Cuenta:</4> para gestionar Su registro como usuario del Servicio. Los Datos Personales que proporcione pueden darle acceso a diferentes funcionalidades del Servicio que están disponibles para Usted como usuario registrado.</3><5><6>Para la ejecución de un contrato:</6> el desarrollo, cumplimiento y realización del contrato de compra de los productos, artículos o servicios que haya comprado o de cualquier otro contrato con Nosotros a través del Servicio.</5><7><8>Para contactarlo:</8> Para contactarlo por correo electrónico , llamadas telefónicas, SMS, u otras formas de comunicación electrónica equivalentes, tales como notificaciones push de una aplicación móvil sobre actualizaciones o comunicaciones informativas relacionadas con las funcionalidades, productos o servicios contratados, incluidas las actualizaciones de seguridad, cuando sea necesario o razonable para su implementación.</7><9><10>Para proporcionarle</10> noticias, ofertas especiales e información general sobre otros bienes, servicios y eventos que ofrecemos que son similares a los que ya ha comprado o sobre los que ha consultado, a menos que haya optó por no recibir tal información.</9><11><12>Para administrar Sus solicitudes:</12> Para atender y administrar Sus solicitudes hacia Nosotros.</11><13><14>Para transferencias comerciales:</14> Podemos usar Su información para evaluar o realizar una fusión, desinversión, reestructuración, reorganización, disolución u otra venta o transferencia de algunos o todos Nuestros activos, ya sea como una empresa en marcha o como parte de una quiebra, liquidación o procedimiento similar, en el cual Los datos personales que tenemos sobre los usuarios de nuestro Servicio se encuentran entre los activos transferidos.</13><15><16>Para otros fines:</16> Podemos usar su información para otros fines, como el análisis de datos, la identificación de tendencias de uso , determinando la efectividad de nuestras campañas promocionales y para evaluar y mejorar nuestro Servicio, productos, servicios, marketing y su experiencia.</15></0>Podemos compartir Su información personal en las siguientes situaciones:<17><18><19>Con proveedores de servicios:</19> podemos compartir su información personal con proveedores de servicios para monitorear y analizar el uso de nuestro servicio. , para contactarlo.</18><20><21>Para transferencias comerciales:</21> Podemos compartir o transferir Su información personal en relación con, o durante las negociaciones de, cualquier fusión, venta de activos de la Compañía, financiamiento, o la adquisición de todo o una parte de Nuestro negocio a otra empresa.</20><22><23>Con Afiliados:</23> Podemos compartir Su información con Nuestros afiliados, en cuyo caso exigiremos a esos afiliados que respeten esta Política de Privacidad. Los afiliados incluyen nuestra empresa matriz y cualquier otra subsidiaria, socios de empresas conjuntas u otras empresas que controlemos o que estén bajo control común con nosotros.</22><24><25>Con socios comerciales:</25> podemos compartir su información con Nuestros socios comerciales para ofrecerle ciertos productos, servicios o promociones.</24><26><27>Con otros usuarios:</27> cuando comparte información personal o interactúa en las áreas públicas con otros usuarios, tales la información puede ser vista por todos los usuarios y puede distribuirse públicamente al exterior.</26><28><29>Con su consentimiento:</29> Podemos divulgar su información personal para cualquier otro propósito con su consentimiento.</28></17>"
+
+#: src/pages/PrivacyPolicyPage/index.js:290
+msgid "priv.policy.t7"
+msgstr "La Compañía conservará sus Datos personales solo durante el tiempo que sea necesario para los fines establecidos en esta Política de privacidad. Conservaremos y utilizaremos sus Datos personales en la medida necesaria para cumplir con nuestras obligaciones legales (por ejemplo, si estamos obligados a conservar sus datos para cumplir con las leyes aplicables), resolver disputas y hacer cumplir nuestros acuerdos y políticas legales.<0/> fines de análisis. Por lo general, los Datos de uso se conservan durante un período de tiempo más corto, excepto cuando estos datos se utilizan para reforzar la seguridad o mejorar la funcionalidad de Nuestro Servicio, o cuando estemos legalmente obligados a conservar estos datos durante períodos de tiempo más largos."
+
+#: src/pages/PrivacyPolicyPage/index.js:304
+msgid "priv.policy.t8"
+msgstr "Su información, incluidos los Datos personales, se procesa en las oficinas operativas de la Compañía y en cualquier otro lugar donde se encuentren las partes involucradas en el procesamiento. Significa que esta información puede transferirse y mantenerse en computadoras ubicadas fuera de Su estado, provincia, país u otra jurisdicción gubernamental donde las leyes de protección de datos pueden diferir de las de Su jurisdicción.<0/><1/>La Compañía tomará todas las medidas razonablemente necesarias para garantizar que sus datos se traten de forma segura y de acuerdo con esta Política de privacidad y no se realizará ninguna transferencia de sus Datos personales a una organización o país a menos que haya existen controles adecuados, incluida la seguridad de sus datos y otra información personal."
+
+#: src/pages/PrivacyPolicyPage/index.js:324
+msgid "priv.policy.t9"
+msgstr "Si la Compañía participa en una fusión, adquisición o venta de activos, sus Datos personales pueden transferirse. Le notificaremos antes de que sus Datos personales se transfieran y estén sujetos a una Política de privacidad diferente."
+
+#: src/pages/Authentication/Setting.js:135
+msgid "wallet address should be of minimum 12 characters length"
+msgstr "la dirección del monedero debe tener una longitud mínima de 12 caracteres"
+
+#: src/pages/WhitePaper/index.js:145
+msgid "whitepaper.download.desc"
+msgstr "Para descargar nuestro<0/> documento técnico"

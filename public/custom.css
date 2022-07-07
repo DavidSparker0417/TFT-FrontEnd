@@ -1,0 +1,9 @@
+div[data-cky-tag="detail-powered-by"] {
+  display: none!important;
+}
+
+/* .cky-revisit-bottom-left {
+  bottom: 15px!important;
+  right: 15px!important;
+  left: auto!important;
+} */

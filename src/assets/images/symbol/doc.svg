@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="392.256 128.508 163.861 160.493" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 431.752 131.64 L 514.239 131.64 L 538.553 157.147 L 538.553 262.882 C 538.553 265.981 536.04 268.494 532.941 268.494 L 431.752 268.494 C 428.653 268.494 426.14 265.981 426.14 262.882 L 426.14 137.252 C 426.14 134.153 428.653 131.64 431.752 131.64 Z" style="fill: rgb(255, 255, 255); fill-opacity: 0; stroke-width: 5px; stroke: rgb(255, 255, 255);"/>
+  <polyline style="fill: rgb(216, 216, 216); fill-opacity: 0; stroke-width: 5px; stroke: rgb(255, 255, 255);" points="513.49 130.79 512.952 157.654 538.742 157.654"/>
+  <line style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke-linecap: round; stroke: rgb(255, 255, 255);" x1="446.254" y1="181.221" x2="479.029" y2="181.221"/>
+  <line style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke-linecap: round; stroke: rgb(255, 255, 255);" x1="445.448" y1="202.891" x2="516.37" y2="202.891"/>
+  <line style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke-linecap: round; stroke: rgb(255, 255, 255);" x1="445.865" y1="224.562" x2="516.787" y2="224.562"/>
+  <line style="fill: rgb(216, 216, 216); stroke-width: 5px; stroke-linecap: round; stroke: rgb(255, 255, 255);" x1="445.328" y1="246.232" x2="516.25" y2="246.232"/>
+  <path d="M 522.414 274.751 L 522.414 278.272 C 522.414 281.371 519.901 283.884 516.802 283.884 L 415.613 283.884 C 412.514 283.884 410.001 281.371 410.001 278.272 L 410.001 152.642 C 410.001 149.543 412.514 147.03 415.613 147.03 L 418.598 147.03" style="fill: rgb(255, 255, 255); fill-opacity: 0; stroke-width: 5px; stroke: rgb(255, 255, 255);"/>
+</svg>

@@ -1,0 +1,27 @@
+.tft-article img {
+  width: 80%!important;
+  margin: 1rem auto 1rem;
+  display: block!important;
+}
+
+/* .tft-article p {
+  display: flex!important;
+} */
+
+.tft-article a {
+  color: paleturquoise!important;
+}
+
+.tft-article span {
+  color: inherit!important;
+  background-color: transparent!important;
+}
+
+.tft-article p {
+  /* overflow: scroll!important; */
+  overflow-wrap: anywhere!important;
+}
+
+p[data-f-id="pbf"] {
+  display: none !important;
+}

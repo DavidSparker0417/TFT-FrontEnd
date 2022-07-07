@@ -1,0 +1,12 @@
+{
+   "locales": ["en", "fr", "de", "es", "it", "zh", "ko", "ru", "el", "id"],
+   "sourceLocale": "en",
+   "catalogs": [{
+      "path": "src/assets/locales/{locale}/messages",
+      "include": ["src"]
+   }],
+   "fallbackLocales": {
+      "default": "en"
+   },
+   "format": "po"
+}

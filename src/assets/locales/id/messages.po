@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-05-29 22:20+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: id\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/pages/components/PreICO/index.js:134
+msgid "$TFT - Whitelist open now! Register here:"
+msgstr ""
+
+#: src/pages/AboutPage/sections/AboutUs.js:88
+#: src/pages/components/DefNavBar/index.js:38
+#: src/pages/components/DefNavBar/index.js:65
+msgid "About"
+msgstr "Tentang"
+
+#: src/pages/Authentication/Signup.js:265
+msgid "Already have an account?"
+msgstr "Sudah punya akun?"
+
+#: src/pages/NewsPage/sections/ArticleNavigate/index.js:36
+msgid "Back To News"
+msgstr "Kembali Ke Berita"
+
+#: src/pages/NewsPage/components/index.js:115
+msgid "Back to top"
+msgstr "Kembali ke Atas"
+
+#: src/pages/PrivacyPolicyPage/index.js:320
+msgid "Business Transactions"
+msgstr "Transaksi Bisnis"
+
+#: src/pages/AboutPage/sections/AboutUs.js:144
+msgid "COMMUNITY"
+msgstr "Komunitas"
+
+#: src/pages/NewsPage/NewsEditor/index.js:199
+msgid "Cancel"
+msgstr "Batal"
+
+#: src/pages/PrivacyPolicyPage/index.js:397
+msgid "Changes to this Privacy Policy"
+msgstr "Perubahan pada kebijakan privasi ini"
+
+#: src/pages/HelpPage/index.js:173
+msgid "Check out our frequently asked questions"
+msgstr "Lihat pertanyaan kami yang sering diajukan"
+
+#: src/pages/PrivacyPolicyPage/index.js:370
+msgid "Children's Privacy"
+msgstr "Privasi Anak"
+
+#: src/pages/WhitePaper/index.js:137
+msgid "Click Here"
+msgstr "Klik di sini"
+
+#: src/pages/NewsPage/sections/CommentsList/index.js:64
+msgid "Comment here"
+msgstr "Komentar di sini"
+
+#: src/pages/Authentication/Signup.js:161
+msgid "Confirm Password:"
+msgstr "Ulangi Sandi"
+
+#: src/pages/Authentication/Setting.js:121
+msgid "Confirm password"
+msgstr "Ulangi Sandi"
+
+#: src/pages/Authentication/Setting.js:145
+msgid "Confirm your new password"
+msgstr "Konfirmasikan kata sandi baru Anda"
+
+#: src/pages/Authentication/Signup.js:113
+#: src/pages/Authentication/Signup.js:162
+msgid "Confirm your password"
+msgstr "Konfirmasi password Anda"
+
+#: src/pages/components/DefNavBar/index.js:50
+#: src/pages/components/DefNavBar/index.js:77
+#: src/pages/ContacUs/index.js:116
+#: src/pages/HelpPage/index.js:149
+msgid "Contact"
+msgstr "Kontak"
+
+#: src/components/TFTFooter/index.js:77
+#: src/pages/PrivacyPolicyPage/index.js:410
+msgid "Contact Us"
+msgstr "Hubungi kami"
+
+#: src/pages/DonatePage/sections/DonateTab.js:78
+msgid "Copied!"
+msgstr "Disalin"
+
+#: src/pages/DonatePage/sections/DonateTab.js:70
+msgid "Copy Code"
+msgstr "Salin kode"
+
+#: src/pages/AboutPage/sections/Team.js:47
+#: src/pages/AboutPage/sections/Team.js:52
+#: src/pages/AboutPage/sections/Team.js:57
+#: src/pages/AboutPage/sections/Team.js:62
+#: src/pages/AboutPage/sections/Team.js:67
+msgid "Core Team"
+msgstr "Tim Inti"
+
+#: src/pages/ArticlePage/index.js:58
+msgid "Create Article"
+msgstr "Buat Artikel"
+
+#: src/pages/Authentication/Setting.js:109
+msgid "Current password"
+msgstr "Kata sandi saat ini"
+
+#: src/pages/PrivacyPolicyPage/index.js:114
+msgid "Definitions"
+msgstr "Definisi"
+
+#: src/pages/AboutPage/sections/Team.js:82
+msgid "Director of Partnerships LatAm"
+msgstr "Direktur Kemitraan LatAm"
+
+#: src/pages/AboutPage/sections/Team.js:77
+msgid "Director of Partnerships NA"
+msgstr "Direktur Kemitraan NA"
+
+#: src/pages/PrivacyPolicyPage/index.js:316
+msgid "Disclosure of Your Personal Data"
+msgstr "Pengungkapan Data Pribadi Anda"
+
+#: src/pages/Authentication/Login.js:192
+msgid "Don't have an account?"
+msgstr "Tidak punya akun?"
+
+#: src/pages/DonatePage/sections/MainFace.js:42
+msgid "Donate"
+msgstr "Donasi"
+
+#: src/pages/LandingPage/sections/Donate/index.js:43
+msgid "Donate Here"
+msgstr "Donasi Disini"
+
+#: src/pages/Authentication/Setting.js:223
+msgid "Edit Profile"
+msgstr "Edit profil"
+
+#: src/pages/Authentication/Profile.js:181
+msgid "Edit Profile Setting"
+msgstr "Edit Pengaturan Profil"
+
+#: src/pages/NewsPage/sections/ArticleHeader/index.js:115
+msgid "Edit This News"
+msgstr "Edit Berita Ini"
+
+#: src/pages/Authentication/Setting.js:93
+msgid "Email address"
+msgstr "Alamat email"
+
+#: src/pages/ContacUs/index.js:49
+msgid "Email address is required"
+msgstr "Alamat email harus diisi"
+
+#: src/pages/Authentication/Signup.js:147
+#: src/pages/components/PreICO/index.js:86
+#: src/pages/ContacUs/index.js:93
+#: src/pages/PRPage/index.js:121
+msgid "Email:"
+msgstr "E-mail"
+
+#: src/pages/NewsPage/NewsEditor/index.js:164
+msgid "Enter Title Here"
+msgstr "Masukkan Judul Disini"
+
+#: src/pages/NewsPage/NewsEditor/index.js:179
+msgid "Enter description here"
+msgstr "Masukkan deskripsi di sini"
+
+#: src/pages/Authentication/Setting.js:137
+msgid "Enter your current password"
+msgstr "Masukkan kata sandi saat ini"
+
+#: src/components/TFTFooter/index.js:41
+#: src/pages/Authentication/Setting.js:131
+#: src/pages/Authentication/Signup.js:105
+#: src/pages/Authentication/Signup.js:148
+#: src/pages/components/PreICO/index.js:65
+#: src/pages/components/PreICO/index.js:87
+#: src/pages/ContacUs/index.js:94
+msgid "Enter your email address"
+msgstr "Masukkan alamat email Anda"
+
+#: src/pages/ContacUs/index.js:87
+msgid "Enter your name"
+msgstr "Masukkan nama Anda"
+
+#: src/pages/Authentication/Setting.js:140
+msgid "Enter your new password"
+msgstr "Masukkan password baru anda"
+
+#: src/pages/Authentication/Login.js:94
+#: src/pages/Authentication/Login.js:161
+#: src/pages/Authentication/Signup.js:109
+#: src/pages/Authentication/Signup.js:155
+msgid "Enter your password"
+msgstr "Masukkan kata sandi Anda"
+
+#: src/pages/ContacUs/index.js:101
+msgid "Enter your subject"
+msgstr "Masukkan subjek Anda"
+
+#: src/pages/Authentication/Setting.js:128
+#: src/pages/Authentication/Signup.js:101
+#: src/pages/Authentication/Signup.js:141
+msgid "Enter your username"
+msgstr "Masukkan nama pengguna Anda"
+
+#: src/pages/Authentication/Login.js:90
+msgid "Enter your username or email address"
+msgstr "Masukkan nama pengguna atau alamat email Anda"
+
+#: src/pages/Authentication/Setting.js:134
+msgid "Enter your wallet address"
+msgstr "Masukkan alamat dompet Anda"
+
+#: src/components/TFTFooter/index.js:85
+#: src/pages/FAQPage/index.js:183
+#: src/pages/HelpPage/index.js:170
+msgid "FAQ"
+msgstr "Pertanyaan Umum"
+
+#: src/pages/NewsPage/index.js:108
+msgid "Failed to get comments from backend"
+msgstr "Gagal mendapatkan komentar dari backend"
+
+#: src/pages/ContacUs/index.js:77
+msgid "Failed to send message to team. {0}"
+msgstr "Gagal mengirim pesan ke tim. {0}"
+
+#: src/pages/Authentication/Profile.js:306
+msgid "Favorite articles"
+msgstr "Artikel favorit"
+
+#: src/pages/LandingPage/sections/Header/index.js:162
+msgid "Find out more"
+msgstr "Temukan lebih banyak lagi"
+
+#: src/pages/PRPage/index.js:115
+msgid "For any media enquiries please contact:"
+msgstr ""
+
+#: src/pages/AboutPage/sections/Team.js:102
+#: src/pages/AboutPage/sections/Team.js:107
+msgid "Fullstack Developer"
+msgstr "Pengembang Fullstack"
+
+#: src/pages/AboutPage/sections/Team.js:97
+msgid "Greek Football Specialist and Youth Development"
+msgstr "Spesialis Sepak Bola Yunani dan Pengembangan Pemuda"
+
+#: src/pages/AboutPage/sections/Team.js:92
+msgid "Head of TFT Nigeria"
+msgstr "Kepala TFT Nigeria"
+
+#: src/components/TFTFooter/index.js:81
+#: src/pages/HelpPage/index.js:131
+msgid "Help"
+msgstr "Bantuan"
+
+#: src/pages/PrivacyPolicyPage/index.js:104
+msgid "Interpretation"
+msgstr "Interpretasi"
+
+#: src/pages/PrivacyPolicyPage/index.js:100
+msgid "Interpretation and Definitions"
+msgstr "Interpretasi dan Definisi"
+
+#: src/pages/PrivacyPolicyPage/index.js:331
+msgid "Law enforcement"
+msgstr "Penegakan hukum"
+
+#: src/pages/PrivacyPolicyPage/index.js:385
+msgid "Links to Other Websites"
+msgstr "Tautan ke Situs Web Lain"
+
+#: src/pages/PRPage/index.js:132
+msgid "Location:"
+msgstr "Lokasi:"
+
+#: src/pages/Authentication/Login.js:168
+#: src/pages/Authentication/Login.js:181
+#: src/pages/components/DefNavBar/index.js:58
+msgid "Log In"
+msgstr "Masuk"
+
+#: src/pages/Authentication/Signup.js:277
+msgid "Log in here"
+msgstr "Masuk disini"
+
+#: src/pages/Authentication/Login.js:173
+msgid "Log in with wallet"
+msgstr "Masuk dengan dompet"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:131
+msgid "Log out"
+msgstr "Keluar"
+
+#: src/components/TFTFooter/index.js:104
+#: src/pages/PRPage/index.js:112
+msgid "Media"
+msgstr "Media"
+
+#: src/pages/ContacUs/index.js:129
+msgid "Message:"
+msgstr "Pesan"
+
+#: src/pages/LandingPage/sections/Blogs/index.js:58
+msgid "More"
+msgstr "Lainnya"
+
+#: src/pages/Authentication/Signup.js:140
+#: src/pages/ContacUs/index.js:86
+msgid "Name:"
+msgstr "Nama"
+
+#: src/pages/Authentication/Setting.js:115
+msgid "New password"
+msgstr "Kata sandi baru"
+
+#: src/pages/Authentication/Setting.js:143
+msgid "New password should be entered"
+msgstr "Kata sandi baru harus dimasukkan"
+
+#: src/components/TFTFooter/index.js:89
+#: src/pages/ArticlePage/sections/MainFace.js:45
+#: src/pages/components/DefNavBar/index.js:42
+#: src/pages/components/DefNavBar/index.js:69
+#: src/pages/LandingPage/sections/Blogs/index.js:38
+msgid "News"
+msgstr "Berita"
+
+#: src/pages/NewsPage/NewsEditor/index.js:123
+msgid "News title should not be empty!"
+msgstr "Judul berita tidak boleh kosong!"
+
+#: src/pages/PRPage/index.js:119
+msgid "Office:"
+msgstr "Kantor:"
+
+#: src/pages/PrivacyPolicyPage/index.js:342
+msgid "Other legal requirements"
+msgstr "Persyaratan hukum lainnya"
+
+#: src/pages/LandingPage/sections/ShopNFT/index.js:38
+msgid "Our NFTs"
+msgstr "NFT kami"
+
+#: src/pages/Authentication/Login.js:96
+#: src/pages/Authentication/Signup.js:111
+msgid "Password is required"
+msgstr "Sandi harus diisi"
+
+#: src/pages/Authentication/Login.js:95
+#: src/pages/Authentication/Setting.js:138
+#: src/pages/Authentication/Setting.js:141
+#: src/pages/Authentication/Signup.js:110
+msgid "Password should be of minimum 8 characters length"
+msgstr "Kata sandi harus memiliki panjang minimal 8 karakter"
+
+#: src/pages/Authentication/Login.js:160
+#: src/pages/Authentication/Signup.js:154
+msgid "Password:"
+msgstr "Sandi"
+
+#: src/pages/Authentication/Setting.js:146
+#: src/pages/Authentication/Signup.js:114
+msgid "Passwords must match"
+msgstr "Kata sandi harus cocok"
+
+#: src/pages/PrivacyPolicyPage/index.js:155
+msgid "Personal Data"
+msgstr "Data pribadi"
+
+#: src/pages/Authentication/Signup.js:115
+msgid "Please retype your password."
+msgstr "Harap ketik ulang kata sandi"
+
+#: src/pages/NewsPage/index.js:123
+msgid "Please, login to add favorite!"
+msgstr "Silakan, login untuk menambahkan favorit!"
+
+#: src/pages/NewsPage/sections/CommentsList/index.js:86
+msgid "Post Your Comment"
+msgstr "Posting Komentar Anda"
+
+#: src/pages/components/DefNavBar/index.js:46
+#: src/pages/components/DefNavBar/index.js:73
+msgid "Pre-ICO"
+msgstr "Pra-ICO"
+
+#: src/components/TFTFooter/index.js:96
+#: src/pages/PrivacyPolicyPage/index.js:73
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:114
+#: src/pages/Authentication/Profile.js:147
+msgid "Profile"
+msgstr "Profil"
+
+#: src/components/TFTReadMore/index.js:45
+msgid "Read More"
+msgstr "Baca selengkapnya"
+
+#: src/pages/NewsPage/sections/ArticleNavigate/index.js:46
+msgid "Read next"
+msgstr "Baca berikutnya"
+
+#: src/pages/components/PreICO/index.js:101
+msgid "Register"
+msgstr "Daftar"
+
+#: src/pages/components/PreICO/index.js:133
+msgid "Register Pre-ICO"
+msgstr "Daftar Pra-ICO"
+
+#: src/pages/components/PreICO/index.js:95
+msgid "Register with wallet"
+msgstr "Daftar dengan dompet"
+
+#: src/pages/PrivacyPolicyPage/index.js:286
+msgid "Retention of Your Personal Data"
+msgstr "Penyimpanan Data Pribadi Anda"
+
+#: src/pages/PrivacyPolicyPage/index.js:359
+msgid "Security of Your Personal Data"
+msgstr "Keamanan Data Pribadi Anda"
+
+#: src/pages/ContacUs/index.js:108
+msgid "Send"
+msgstr "Kirim"
+
+#: src/components/Poppers/TFTProfileMenu/index.js:122
+msgid "Setting"
+msgstr "Pengaturan"
+
+#: src/components/TFTReadMore/index.js:45
+msgid "Show less"
+msgstr "Tampilkan lebih sedikit"
+
+#: src/pages/Authentication/Signup.js:254
+msgid "Sign Up"
+msgstr "Daftar"
+
+#: src/pages/Authentication/Login.js:204
+#: src/pages/Authentication/Signup.js:170
+msgid "Sign up"
+msgstr "Daftar"
+
+#: src/pages/Authentication/Signup.js:175
+msgid "Sign up with wallet"
+msgstr "Mendaftar dengan dompet"
+
+#: src/pages/AboutPage/sections/Team.js:87
+msgid "Spanish Football Expert, Football Analyst and Coach"
+msgstr "Pakar Sepak Bola Spanyol, Analis Sepak Bola dan Pelatih"
+
+#: src/pages/ContacUs/index.js:100
+msgid "Subject:"
+msgstr "Subjek"
+
+#: src/pages/NewsPage/NewsEditor/index.js:196
+msgid "Submit"
+msgstr "Kirim"
+
+#: src/components/TFTFooter/index.js:69
+msgid "Subscribe"
+msgstr "Langganan"
+
+#: src/pages/ContacUs/index.js:74
+msgid "Success to send message to team."
+msgstr "Sukses mengirim pesan ke tim."
+
+#: src/pages/AboutPage/sections/Team.js:72
+msgid "TFT Lead Designer and Creative"
+msgstr "TFT Lead Designer dan Kreatif"
+
+#: src/pages/AboutPage/sections/Team.js:150
+msgid "The Team"
+msgstr "Tim"
+
+#: src/pages/Authentication/Signup.js:103
+#: src/pages/Authentication/Signup.js:107
+#: src/pages/components/PreICO/index.js:67
+msgid "This field is required!"
+msgstr "Kolom ini wajib diisi."
+
+#: src/pages/Authentication/Setting.js:132
+#: src/pages/Authentication/Signup.js:106
+#: src/pages/components/PreICO/index.js:66
+#: src/pages/ContacUs/index.js:48
+msgid "This is not a valid email."
+msgstr "Ini bukan email yang valid."
+
+#: src/pages/PrivacyPolicyPage/index.js:190
+msgid "Tracking Technologies and Cookies"
+msgstr "Teknologi Pelacakan dan Cookie"
+
+#: src/pages/PrivacyPolicyPage/index.js:300
+msgid "Transfer of Your Personal Data"
+msgstr "Transfer Data Pribadi Anda"
+
+#: src/pages/PrivacyPolicyPage/index.js:151
+msgid "Types of Data Collected"
+msgstr "Jenis Data yang Dikumpulkan"
+
+#: src/pages/Authentication/Setting.js:311
+msgid "Update Setting"
+msgstr "Perbarui Pengaturan"
+
+#: src/pages/PrivacyPolicyPage/index.js:173
+msgid "Usage Data"
+msgstr "Penggunaan data"
+
+#: src/pages/PrivacyPolicyPage/index.js:244
+msgid "Use of Your Personal Data"
+msgstr "Penggunaan Data Pribadi Anda"
+
+#: src/pages/Authentication/Setting.js:86
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: src/pages/Authentication/Login.js:153
+msgid "Username / email:"
+msgstr "Nama pengguna (email)"
+
+#: src/pages/Authentication/Login.js:154
+msgid "Username or Email Address"
+msgstr "Nama Pengguna atau Alamat Email"
+
+#: src/pages/Authentication/Login.js:92
+msgid "Username or Email address is required"
+msgstr "Username atau Alamat Email diperlukan"
+
+#: src/pages/Authentication/Login.js:91
+#: src/pages/Authentication/Setting.js:129
+#: src/pages/Authentication/Signup.js:102
+msgid "Username should be of minimum 3 characters length"
+msgstr "Nama pengguna harus memiliki panjang minimal 3 karakter"
+
+#: src/pages/Authentication/Setting.js:100
+msgid "Wallet address"
+msgstr "Alamat dompet"
+
+#: src/pages/LandingPage/sections/Donate/index.js:33
+msgid "Want to support TFT?"
+msgstr "Ingin mendukung TFT?"
+
+#: src/pages/FAQPage/index.js:94
+msgid "What is a DAO?"
+msgstr "Apa itu DAO?"
+
+#: src/pages/AboutPage/sections/WhitePaper.js:65
+#: src/pages/AboutPage/sections/WhitePaper.js:94
+#: src/pages/components/DefNavBar/index.js:54
+#: src/pages/components/DefNavBar/index.js:81
+#: src/pages/WhitePaper/index.js:120
+msgid "Whitepaper"
+msgstr "WHITEPAPER"
+
+#: src/pages/FAQPage/index.js:86
+msgid "Who are The Fans Together? What are you doing?"
+msgstr "Siapa Penggemar Bersama? Apa yang kau lakukan?"
+
+#: src/pages/FAQPage/index.js:112
+msgid "Why Crypto?"
+msgstr "Mengapa Crypto?"
+
+#: src/pages/FAQPage/index.js:124
+msgid "Why IOTA?"
+msgstr "Mengapa IOTA?"
+
+#: src/pages/FAQPage/index.js:102
+msgid "Why now?"
+msgstr "Kenapa sekarang?"
+
+#: src/pages/FAQPage/index.js:134
+msgid "Will I get a physical version of my NFT?"
+msgstr "Apakah saya akan mendapatkan versi fisik NFT saya?"
+
+#: src/pages/FAQPage/index.js:141
+msgid "Will you buy my club?"
+msgstr "Maukah kau membeli klubku?"
+
+#: src/pages/AboutPage/sections/AboutUs.js:49
+msgid "about.text"
+msgstr "The Fans Together adalah DAO (Organisasi Otonomi Terdesentralisasi) yang didedikasikan untuk menyatukan penggemar olahraga dari seluruh dunia untuk memberi mereka kekuatan dan katakan di klub olahraga profesional.\nUntuk mencapai tujuan ini, kami Para Penggemar Bersama memanfaatkan Tangle, Teknologi Buku Besar Terdistribusi (DLT) yang dibuat oleh IOTA Foundation untuk menciptakan cara yang cepat, gratis, dan tanpa gesekan bagi Penggemar untuk terlibat dengan klub olahraga mereka. Melalui struktur tata kelola kami, penggemar akan memiliki suara nyata dalam operasi klub mereka.\nSiapa pun yang memiliki setidaknya satu token $ TFT The Fans Together akan dapat berdebat, berkontribusi, dan pada akhirnya memutuskan, melalui suara dan jajak pendapat arah klub olahraga mereka. Suara dalam DAO diusulkan oleh tim TFT dan kemudian pemegang token akan dapat berpartisipasi, memutuskan hasilnya.\nKami telah memilih untuk menggunakan IOTA's Tangle karena banyak kelebihannya, cepat, tidak berdaya, dan hemat energi. Fitur-fitur inilah yang membuat The Fans Together menjadi mungkin."
+
+#: src/pages/AboutPage/sections/WhitePaper.js:72
+msgid "about.white.desc0"
+msgstr "Ingin melihat apa rencana kami untuk TFT? <0/>Lihatlahwhitepaper kami di sini."
+
+#: src/pages/ArticlePage/sections/MainFace.js:61
+msgid "article.desc"
+msgstr "Di sini Anda dapat tetap up to date dengan segala sesuatu yang terjadi dengan The Fans Together"
+
+#: src/pages/DonatePage/sections/MainFace.js:55
+msgid "donate.main.desc"
+msgstr "The Fans Together bekerja keras untuk mendekatkan penggemar olahraga dan klub pro. Info donasi kami ada di bawah ini."
+
+#: src/pages/FAQPage/index.js:87
+msgid "faq.a1"
+msgstr "The Fans Together adalah DAO (lihat di bawah) menggunakan teknologi Web3 dan IOTA Tangle untuk menyatukan penggemar olahraga dan memberi mereka kekuatan untuk memiliki suara nyata di klub olahraga, alih-alih ditinggalkan dari pengambilan keputusan."
+
+#: src/pages/FAQPage/index.js:95
+msgid "faq.a2"
+msgstr "Komunitas Otonomi Terdesentralisasi adalah sekelompok individu yang, melalui teknologi Web3, berkumpul untuk secara kolektif membuat keputusan."
+
+#: src/pages/FAQPage/index.js:103
+msgid "faq.a3"
+msgstr "Kami menemukan bahwa sekarang adalah waktu melalui pertemuan perkembangan teknologi dan olahraga. Kami diberi energi oleh mobilisasi penggemar melawan proposal Liga Super Eropa yang tidak adil. Laju kemajuan IOTA Foundations, untuk mematangkan teknologinya, terus berlanjut dan kami merasa bahwa IOTA cukup dikembangkan untuk menyediakan apa yang kami butuhkan untuk proyek ini."
+
+#: src/pages/FAQPage/index.js:113
+msgid "faq.a4"
+msgstr "Secara sederhana, ini memungkinkan pengoperasian terdesentralisasi, transparan dan tidak berubah, dan dalam konteks model kepemilikan dan pemungutan suara kami, memungkinkan pemegang token untuk berpartisipasi dalam mengelola arah DAO dan strategi akuisisi. Manajemen klub olahraga berikutnya melalui Tangle memberikan kredibilitas dan kepercayaan yang signifikan bagi proyek, sementara juga memungkinkan untuk berbagai partisipasi dan selektabilitas area minat bagi peserta. Tangle memungkinkan penskalaan cepat, kecepatan akses, dan visibilitas di semua aspek operasi."
+
+#: src/pages/FAQPage/index.js:125
+msgid "faq.a5"
+msgstr "Fakta bahwa dengan IOTA transaksi tidak berdaya dan gesekan adalah keuntungan yang signifikan atas pengoperasian DAO kami pada cryptocurrency lainnya. Undian lainnya adalah bahwa IOTA Tangle berfungsi dengan cara yang jauh lebih intensif energi yang berarti bahwa kita dapat memiliki fungsionalitas buku besar digital, tanpa biaya untuk lingkungan dan keberlanjutan yang dikenakan cryptocurrency lain seperti Ethereum."
+
+#: src/pages/FAQPage/index.js:135
+msgid "faq.a6"
+msgstr "Saat ini hanya #DAOPIONEER yang tersedia sebagai pakaian fisik."
+
+#: src/pages/FAQPage/index.js:142
+msgid "faq.a7"
+msgstr "Kami tidak bisa menjanjikan itu, karena setiap keputusan pembelian akan diusulkan, diperdebatkan dan disetujui oleh keanggotaan DAO, tetapi kami dapat mendorong Anda untuk terlibat dan membuat suara Anda didengar."
+
+#: src/pages/HelpPage/index.js:152
+msgid "help.contact.desc"
+msgstr "Belum menemukan apa yang Anda butuhkan di FAQ kami?"
+
+#: src/pages/LandingPage/sections/Donate/index.js:36
+msgid "home.donate.p0"
+msgstr "The Fans Together bekerja keras untuk mendekatkan penggemar olahraga dan klub pro. Info donasi kami ada di bawah ini."
+
+#: src/pages/PrivacyPolicyPage/index.js:147
+msgid "priv.policy.h1"
+msgstr "Mengumpulkan dan Menggunakan Data Pribadi Anda"
+
+#: src/pages/PrivacyPolicyPage/index.js:93
+msgid "priv.policy.t0"
+msgstr "Kebijakan Privasi ini menjelaskan kebijakan dan prosedur kami tentang pengumpulan, penggunaan, dan pengungkapan informasi Anda saat Anda menggunakan Layanan dan memberi tahu Anda tentang hak privasi Anda dan bagaimana hukum melindungi<0/>Anda.Kami menggunakan data Pribadi Anda untuk menyediakan dan meningkatkan Layanan. Dengan menggunakan Layanan, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan Kebijakan Privasi ini."
+
+#: src/pages/PrivacyPolicyPage/index.js:108
+msgid "priv.policy.t1"
+msgstr "Kata-kata yang huruf awal dikapitalisasi memiliki makna yang didefinisikan dalam kondisi berikut. Definisi berikut harus memiliki arti yang sama terlepas dari apakah mereka muncul dalam bentuk tunggal atau jamak."
+
+#: src/pages/PrivacyPolicyPage/index.js:335
+msgid "priv.policy.t10"
+msgstr "Dalam keadaan tertentu, Perusahaan mungkin diminta untuk mengungkapkan Data Pribadi Anda jika diminta untuk melakukannya oleh hukum atau sebagai tanggapan atas permintaan yang sah oleh otoritas publik (misalnya pengadilan atau lembaga pemerintah)."
+
+#: src/pages/PrivacyPolicyPage/index.js:346
+msgid "priv.policy.t11"
+msgstr "Perusahaan dapat mengungkapkan Data Pribadi Anda dengan itikad baik dengan keyakinan bahwa tindakan tersebut diperlukan untuk:<0><1>Mematuhi kewajiban hukum</1><2>Melindungi dan membela hak atau properti Perusahaan</2><3>Mencegah atau menyelidiki kemungkinan kesalahan sehubungan dengan Layanan</3><4>Melindungi keamanan pribadi Pengguna Layanan atau publik</4><5>Melindungi dari tanggung jawab hukum</5></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:363
+msgid "priv.policy.t12"
+msgstr "Keamanan Data Pribadi Anda penting bagi Kami, tetapi ingat bahwa tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik yang 100% aman. Meskipun Kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindungi Data Pribadi Anda, Kami tidak dapat menjamin keamanan mutlaknya."
+
+#: src/pages/PrivacyPolicyPage/index.js:374
+msgid "priv.policy.t13"
+msgstr "Layanan kami tidak membahas siapa pun di bawah usia 13 tahun. Kami tidak secara sengaja mengumpulkan informasi identitas pribadi dari siapa pun yang berusia di bawah 13 tahun. Jika Anda adalah orang tua atau wali dan Anda mengetahui bahwa anak Anda telah memberikan Data Pribadi kepada Kami, silakan hubungi Kami. Jika Kami menyadari bahwa Kami telah mengumpulkan Data Pribadi dari siapa pun yang berusia di bawah 13 tahun tanpa verifikasi persetujuan orang tua, Kami mengambil langkah-langkah untuk menghapus informasi tersebut dari server<0/>Kami.Jika Kami perlu mengandalkan persetujuan sebagai dasar hukum untuk memproses informasi Anda dan negara Anda memerlukan persetujuan dari orang tua, Kami mungkin memerlukan persetujuan orang tua Anda sebelum Kami mengumpulkan dan menggunakan informasi tersebut."
+
+#: src/pages/PrivacyPolicyPage/index.js:389
+msgid "priv.policy.t14"
+msgstr "Layanan kami mungkin berisi tautan ke situs web lain yang tidak dioperasikan oleh Kami. Jika Anda mengklik tautan pihak ketiga, Anda akan diarahkan ke situs pihak ketiga tersebut. Kami sangat menyarankan Anda untuk meninjau Kebijakan Privasi setiap situs yang Anda kunjungi<0/>Kami tidak memiliki kendali atas dan tidak bertanggung jawab atas konten, kebijakan privasi, atau praktik situs atau layanan pihak ketiga mana pun."
+
+#: src/pages/PrivacyPolicyPage/index.js:401
+msgid "priv.policy.t15"
+msgstr "Kami dapat memperbarui Kebijakan Privasi Kami dari waktu ke waktu. Kami akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman<0/>ini.Kami akan memberi tahu Anda melalui email dan/atau pemberitahuan penting pada Layanan Kami, sebelum perubahan menjadi efektif dan memperbarui tanggal “Terakhir diperbarui” di bagian atas Kebijakan Privasi ini.<1/> Kebijakan secara berkala untuk setiap perubahan. Perubahan pada Kebijakan Privasi ini berlaku efektif ketika diposting di halaman ini."
+
+#: src/pages/PrivacyPolicyPage/index.js:414
+msgid "priv.policy.t16"
+msgstr "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, Anda dapat menghubungi kami:<0><1>Melalui email: contact@thefanstogether.io</1></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:118
+msgid "priv.policy.t2"
+msgstr "Untuk tujuan Kebijakan Privasi ini:<0/><1><2><3>Akun</3> berarti akun unik yang dibuat untuk Anda untuk mengakses Layanan kami atau bagian dari Layanan kami.</2><4><5>Perusahaan</5> (disebut sebagai \"Perusahaan\", \"Kami\", \"Kami\" atau \"Kami\" dalam Perjanjian ini) mengacu pada Penggemar Bersama.</4><6><7>Cookie</7> adalah file kecil yang ditempatkan di komputer, perangkat seluler, atau perangkat lain Anda oleh situs web, yang berisi detail riwayat penjelajahan Anda di situs web tersebut di antara banyak kegunaannya.</6><8><9>Negara</9> mengacu pada: Inggris Raya</8><10><11>Perangkat</11> berarti perangkat apa pun yang dapat mengakses Layanan seperti komputer, ponsel, atau perangkat digital tablet.</10><12><13>Data Pribadi</13> adalah setiap informasi yang berhubungan dengan individu yang teridentifikasi atau dapat diidentifikasi.</12><14><15>Layanan</15> mengacu pada Situs Web. </14><16><17>Penyedia Layanan</17> berarti setiap orang atau badan hukum yang memproses data atas nama Perusahaan. Ini mengacu pada perusahaan atau individu pihak ketiga yang dipekerjakan oleh Perusahaan untuk memfasilitasi Layanan, untuk menyediakan Layanan atas nama Perusahaan, untuk melakukan layanan yang terkait dengan Layanan atau untuk membantu Perusahaan dalam menganalisis bagaimana Layanan digunakan.</16><18><19>Data Penggunaan</19> mengacu pada data yang dikumpulkan secara otomatis, baik yang dihasilkan oleh penggunaan Layanan atau dari infrastruktur Layanan itu sendiri (misalnya, durasi kunjungan halaman).</18><20><21>Situs Web</21> mengacu pada The Fans Together, dapat diakses dari <22>https://thefanstogether.io</22></20><23><24>Anda</24> berarti individu yang mengakses atau menggunakan Layanan, atau perusahaan, atau badan hukum lainnya atas nama individu tersebut mengakses atau menggunakan Layanan, sebagaimana berlaku.</23></1>"
+
+#: src/pages/PrivacyPolicyPage/index.js:159
+msgid "priv.policy.t3"
+msgstr "Saat menggunakan Layanan Kami, Kami dapat meminta Anda untuk memberikan Kami informasi pengenal pribadi tertentu yang dapat digunakan untuk menghubungi atau mengidentifikasi Anda. Informasi pengenal pribadi dapat mencakup, namun tidak terbatas pada:<0><1>Alamat email</1><2>Nama depan dan nama belakang</2><3>Nomor telepon</3><4>Alamat, Negara Bagian, Provinsi, ZIP/Kode Pos, Kota</4><5>Data Penggunaan</5></0>"
+
+#: src/pages/PrivacyPolicyPage/index.js:177
+msgid "priv.policy.t4"
+msgstr "Data Penggunaan dapat mencakup informasi seperti alamat Protokol Internet Perangkat Anda (misalnya alamat IP), jenis browser, versi browser, halaman Layanan kami yang Anda kunjungi, waktu dan tanggal kunjungan Anda, waktu yang dihabiskan pada halaman-halaman tersebut, unik<0/> pengidentifikasi perangkat dan data diagnostik<1/>lainnya.Ketika Anda mengakses Layanan melalui atau melalui perangkat seluler, Kami dapat mengumpulkan informasi tertentu secara otomatis, termasuk, namun tidak terbatas pada, jenis perangkat seluler yang Anda gunakan, ID unik perangkat seluler Anda, alamat IP perangkat seluler Anda, pengoperasian seluler Anda sistem, jenis browser internet seluler yang Anda gunakan, pengidentifikasi perangkat unik dan data diagnostik lainnya. Kami juga dapat mengumpulkan informasi yang dikirimkan browser Anda setiap kali Anda mengunjungi Layanan kami atau ketika Anda mengakses Layanan melalui atau melalui perangkat seluler."
+
+#: src/pages/PrivacyPolicyPage/index.js:194
+msgid "priv.policy.t5"
+msgstr "Kami menggunakan Cookie dan teknologi pelacakan serupa untuk melacak aktivitas di Layanan Kami dan menyimpan informasi tertentu. Teknologi pelacakan yang digunakan adalah beacon, tag, dan skrip untuk mengumpulkan dan melacak informasi serta untuk meningkatkan dan menganalisis Layanan Kami. Teknologi yang Kami gunakan dapat mencakup:<0><1><2>Cookie atau Cookie Browser.</2> Cookie adalah file kecil yang ditempatkan di Perangkat Anda. Anda dapat menginstruksikan browser Anda untuk menolak semua Cookie atau untuk menunjukkan kapan Cookie sedang dikirim. Namun, jika Anda tidak menerima Cookie, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan kami. Kecuali Anda telah menyesuaikan pengaturan browser Anda sehingga akan menolak Cookie, Layanan kami dapat menggunakan Cookie.</1><3><4>Cookie Flash.</4> Fitur tertentu dari Layanan kami dapat menggunakan objek tersimpan lokal (atau Flash Cookies) untuk mengumpulkan dan menyimpan informasi tentang preferensi Anda atau aktivitas Anda di Layanan kami. Cookie Flash tidak dikelola oleh pengaturan browser yang sama seperti yang digunakan untuk Cookie Browser. Untuk informasi selengkapnya tentang cara Anda menghapus Flash Cookies, silakan baca \"Di mana saya dapat mengubah setelan untuk menonaktifkan, atau menghapus objek bersama lokal?\" tersedia di <5>https://helpx.adobe.com/flash-player /kb/disable-local-shared-objects-flash.html#main_Where_can_I_</5>change_the_settings_for_disabling__or_deleting_local_shared_objects_</3><6><7>Web Beacon.</7> Bagian tertentu dari Layanan kami dan email kami mungkin berisi elektronik kecil file yang dikenal sebagai web beacon (juga disebut sebagai gif yang jelas, tag piksel, dan gif piksel tunggal) yang memungkinkan Perusahaan, misalnya, untuk menghitung pengguna yang telah mengunjungi halaman tersebut atau membuka email dan untuk statistik situs web terkait lainnya (untuk misalnya, merekam popularitas bagian tertentu dan memverifikasi sistem dan integritas server).</6></0>Cookie dapat berupa Cookie \"Persisten\" atau \"Session\". Cookie Persisten tetap ada di komputer pribadi atau perangkat seluler Anda saat Anda offline, sementara Cookie Sesi dihapus segera setelah Anda menutup browser web Anda. Pelajari lebih lanjut tentang cookie: <8>Apa itu Cookie?</8><9/>Kami menggunakan Cookie Sesi dan Persisten untuk tujuan yang ditetapkan di bawah:<10><11><12>Cookie yang Diperlukan / Esensial</12><13/>Jenis: Cookie Sesi<14/>Dikelola oleh: Kami<15/>Tujuan: Cookie ini penting untuk menyediakan Anda layanan yang tersedia melalui Situs Web dan untuk memungkinkan Anda menggunakan beberapa fiturnya. Mereka membantu untuk mengotentikasi pengguna dan mencegah penipuan penggunaan akun pengguna. Tanpa Cookie ini, layanan yang Anda minta tidak dapat diberikan, dan Kami hanya menggunakan Cookie ini untuk menyediakan layanan tersebut kepada Anda.</11><16><17>Kebijakan Cookie / Cookie Penerimaan Pemberitahuan</17><18/>Jenis: Cookie Persisten<19/>Dikelola oleh: Kami<20/>Tujuan: Cookie ini mengidentifikasi apakah pengguna telah menerima penggunaan cookie di Situs Web.</16><21><22>Cookie Fungsi</22><23/>Jenis: Cookie Persisten<24/>Dikelola oleh: Kami<25/>Tujuan: Cookies ini memungkinkan kami untuk mengingat pilihan yang Anda buat saat Anda menggunakan Situs Web, seperti mengingat detail login atau preferensi bahasa Anda. Tujuan dari Cookie ini adalah untuk memberi Anda pengalaman yang lebih pribadi dan untuk menghindari Anda harus memasukkan kembali preferensi Anda setiap kali Anda menggunakan Situs Web.</21></10>Untuk informasi lebih lanjut tentang cookie yang kami gunakan dan pilihan terkait cookie, silakan kunjungi Kebijakan Cookie kami atau bagian Cookie dari Kebijakan Privasi kami."
+
+#: src/pages/PrivacyPolicyPage/index.js:248
+msgid "priv.policy.t6"
+msgstr "Perusahaan dapat menggunakan Data Pribadi untuk tujuan berikut:<0><1><2>Untuk menyediakan dan memelihara Layanan kami,</2> termasuk untuk memantau penggunaan Layanan kami.</1><3><4> Untuk mengelola Akun Anda:</4> untuk mengelola pendaftaran Anda sebagai pengguna Layanan. Data Pribadi yang Anda berikan dapat memberi Anda akses ke berbagai fungsi Layanan yang tersedia untuk Anda sebagai pengguna terdaftar.</3><5><6>Untuk pelaksanaan kontrak:</6> pengembangan, kepatuhan dan melakukan kontrak pembelian untuk produk, barang, atau layanan yang telah Anda beli atau kontrak lainnya dengan Kami melalui Layanan.</5><7><8>Untuk menghubungi Anda:</8> Untuk menghubungi Anda melalui email , panggilan telepon, SMS, atau bentuk komunikasi elektronik lain yang setara, seperti pemberitahuan push aplikasi seluler mengenai pembaruan atau komunikasi informatif yang terkait dengan fungsi, produk, atau layanan yang dikontrak, termasuk pembaruan keamanan, bila perlu atau wajar untuk penerapannya.</7><9><10>Untuk memberi Anda</10> berita, penawaran khusus, dan informasi umum tentang barang, layanan, dan acara lain yang kami tawarkan yang serupa dengan yang telah Anda beli atau tanyakan kecuali Anda memiliki memilih untuk tidak menerima seperti itu informasi.</9><11><12>Untuk mengelola permintaan Anda:</12> Untuk menghadiri dan mengelola permintaan Anda kepada Kami.</11><13><14>Untuk transfer bisnis:</14> Kami dapat menggunakan informasi Anda untuk mengevaluasi atau melakukan merger, divestasi, restrukturisasi, reorganisasi, pembubaran, atau penjualan atau pengalihan lainnya dari sebagian atau seluruh aset Kami, baik sebagai kelangsungan usaha atau sebagai bagian dari kebangkrutan, likuidasi, atau proses serupa, di mana Data Pribadi yang Kami simpan tentang pengguna Layanan kami adalah salah satu aset yang ditransfer.</13><15><16>Untuk tujuan lain:</16> Kami dapat menggunakan informasi Anda untuk tujuan lain, seperti analisis data, mengidentifikasi tren penggunaan , menentukan efektivitas kampanye promosi kami dan untuk mengevaluasi serta meningkatkan Layanan, produk, layanan, pemasaran, dan pengalaman Anda.</15></0>Kami dapat membagikan informasi pribadi Anda dalam situasi berikut:<17><18><19>Dengan Penyedia Layanan:</19> Kami dapat membagikan informasi pribadi Anda dengan Penyedia Layanan untuk memantau dan menganalisis penggunaan Layanan kami , untuk menghubungi Anda.</18><20><21>Untuk transfer bisnis:</21> Kami dapat membagikan atau mentransfer informasi pribadi Anda sehubungan dengan, atau selama negosiasi, merger, penjualan aset Perusahaan, pembiayaan, atau akuisisi semua atau sebagian dari bisnis Kami ke perusahaan lain.</20><22><23>Dengan Afiliasi:</23> Kami dapat membagikan informasi Anda dengan afiliasi Kami, dalam hal ini kami akan meminta afiliasi tersebut untuk menghormati Kebijakan Privasi ini. Afiliasi termasuk perusahaan induk Kami dan anak perusahaan lainnya, mitra usaha patungan, atau perusahaan lain yang Kami kendalikan atau yang berada di bawah kendali bersama Kami.</22><24><25>Dengan mitra bisnis:</25> Kami dapat membagikan Anda informasi dengan mitra bisnis Kami untuk menawarkan produk, layanan, atau promosi tertentu kepada Anda.</24><26><27>Dengan pengguna lain:</27> ketika Anda berbagi informasi pribadi atau berinteraksi di area publik dengan pengguna lain, seperti informasi dapat dilihat oleh semua pengguna dan dapat didistribusikan secara publik di luar.</26><28><29>Dengan persetujuan Anda:</29> Kami dapat mengungkapkan informasi pribadi Anda untuk tujuan lain apa pun dengan persetujuan Anda.</28></17>"
+
+#: src/pages/PrivacyPolicyPage/index.js:290
+msgid "priv.policy.t7"
+msgstr "Perusahaan akan menyimpan Data Pribadi Anda hanya selama diperlukan untuk tujuan yang ditetapkan dalam Kebijakan Privasi ini. Kami akan menyimpan dan menggunakan Data Pribadi Anda sejauh yang diperlukan untuk mematuhi kewajiban hukum kami (misalnya, jika kami diharuskan menyimpan data Anda untuk mematuhi hukum yang berlaku), menyelesaikan perselisihan, dan menegakkan perjanjian dan kebijakan hukum<0/>kami.Perusahaan juga akan menyimpan Data Penggunaan untuk internal tujuan analisis. Data Penggunaan umumnya disimpan untuk jangka waktu yang lebih singkat, kecuali ketika data ini digunakan untuk memperkuat keamanan atau untuk meningkatkan fungsionalitas Layanan Kami, atau Kami secara hukum berkewajiban untuk menyimpan data ini untuk jangka waktu yang lebih lama."
+
+#: src/pages/PrivacyPolicyPage/index.js:304
+msgid "priv.policy.t8"
+msgstr "Informasi Anda, termasuk Data Pribadi, diproses di kantor operasi Perusahaan dan di tempat lain di mana pihak-pihak yang terlibat dalam pemrosesan berada. Ini berarti bahwa informasi ini dapat ditransfer ke - dan dikelola pada - komputer yang terletak di luar negara bagian, provinsi, negara atau yurisdiksi pemerintah lainnya di mana undang-undang perlindungan data mungkin berbeda dari yang dari yurisdiksi Anda. persetujuan<0/>Anda untuk Kebijakan Privasi ini diikuti oleh kiriman Anda dari informasi tersebut mewakili persetujuan Anda untuk transfer<1/>itu.Perusahaan akan mengambil semua langkah yang diperlukan secara wajar untuk memastikan bahwa data Anda diperlakukan dengan aman dan sesuai dengan Kebijakan Privasi ini dan tidak ada transfer Data Pribadi Anda yang akan dilakukan ke suatu organisasi atau negara kecuali ada kontrol yang memadai termasuk keamanan data Anda dan informasi pribadi lainnya."
+
+#: src/pages/PrivacyPolicyPage/index.js:324
+msgid "priv.policy.t9"
+msgstr "Jika Perusahaan terlibat dalam merger, akuisisi, atau penjualan aset, Data Pribadi Anda dapat ditransfer. Kami akan memberikan pemberitahuan sebelum Data Pribadi Anda ditransfer dan tunduk pada Kebijakan Privasi yang berbeda."
+
+#: src/pages/Authentication/Setting.js:135
+msgid "wallet address should be of minimum 12 characters length"
+msgstr "alamat dompet harus minimal 12 karakter"
+
+#: src/pages/WhitePaper/index.js:145
+msgid "whitepaper.download.desc"
+msgstr "Untuk mengunduh<0/>Whitepaper kami"
